@@ -1,0 +1,3 @@
+pandas
+matplotlib
+pandas_ods_reader
